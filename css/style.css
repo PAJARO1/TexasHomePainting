@@ -4,45 +4,57 @@
 
 a:hover,
 a:focus {
-    color: #1bbca3;
+    color: #006F7F;
 }
 
 a,.tp-caption a.btn:hover {
-	color: #1bbca3;
+	color: #006F7F;
 }
 .top-nav-collapse {
-	background: #1bbca3;
+	background: #006F7F;
 }
 
 .carousel-indicators .active {
-    background-color: #1bbca3;
+    background-color: #006F7F;
 }
 
 .header-text h2 span {
-    background-color: #1bbca3;
+    background-color: #006F7F;
 }
 
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
-	color: #1bbca3;
+	color: #006F7F;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-    background-color: #1bbca3;
+    background-color: #006F7F;
 }
 
 .widget-avatar .avatar:hover {
-    border: 5px solid #1bbca3;
+    border: 5px solid #006F7F;
 }
 
 .bg-skin {
-	background: #1bbca3;
+	background: #006F7F;
 }
 
 .highlight-color {
-	background-color: #1bbca3;
+	background-color: #006F7F;
 }
 
+.fa-paint-brush {
+	color: red;
+}
+.fa-home {
+	color: brown;
+}
+.fa-building{
+	color: grey;
+}
+.fa-money {
+	color: green;
+}
 body {
     width: 100%;
     height: 100%;
@@ -291,7 +303,7 @@ blockquote strong {
 .navbar-custom .nav li.active {
     outline: 0;
     background-color: rgba(255,255,255,.2);
-    color: #1bbca3;
+    color: #006F7F;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
@@ -317,7 +329,7 @@ blockquote strong {
 }
 
 .in a:hover {
-    color: #1bbca3 !important;
+    color: #006F7F !important;
 }
 
 /* misc */
@@ -573,7 +585,7 @@ section#intro {
     left: 1.8%;
     right: auto;
     width: 96.66666666666666%;
-    color: #fff;
+    color: #000;
 }
 
 .header-text h2 {
@@ -588,6 +600,7 @@ section#intro {
 
 .header-text h3 span {
 	color: #fff;
+	text-shadow: 1px 1px #000;
 }
 
 .btn-min-block {
@@ -597,7 +610,7 @@ section#intro {
 
 .btn-theme {
     color: #fff;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, .6);
     border: 2px solid #fff;
     margin-right: 15px;
 }
