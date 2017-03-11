@@ -1,13 +1,47 @@
-/*
-    Theme Name: Shuffle
-    Theme URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
-    Author: BootstrapMade
-    Author URL: https://bootstrapmade.com
-*/
 /* ==== Google font ==== */
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700,900);
 @import url('https://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700');
 
+a:hover,
+a:focus {
+    color: #1bbca3;
+}
+
+a,.tp-caption a.btn:hover {
+	color: #1bbca3;
+}
+.top-nav-collapse {
+	background: #1bbca3;
+}
+
+.carousel-indicators .active {
+    background-color: #1bbca3;
+}
+
+.header-text h2 span {
+    background-color: #1bbca3;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #1bbca3;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #1bbca3;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #1bbca3;
+}
+
+.bg-skin {
+	background: #1bbca3;
+}
+
+.highlight-color {
+	background-color: #1bbca3;
+}
 
 body {
     width: 100%;
