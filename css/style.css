@@ -100,7 +100,10 @@ h6 {
     font-weight: 400;
 	color: #111;
 }
-
+.PN img{
+  border-radius: 30px;
+  border: 5px solid #34495e;
+}
 h1.h-xlight,h2.h-xlight,h3.h-xlight ,h4.h-xlight ,h5.h-xlight ,h6.h-xlight  {
 	font-weight: 200;
 }
@@ -204,7 +207,7 @@ blockquote strong {
 	text-transform: uppercase;
 	font-size: 26px;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 900;
+	font-weight: bold;
 }
 
 
@@ -1085,6 +1088,7 @@ a.btn:focus{
 	.site-logo{
 		margin: 0 0 0 30px;
 		float:none;
+
 	}
 	.navbar-custom ul.nav li a {
 		color: #eee;
