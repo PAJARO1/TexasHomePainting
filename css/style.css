@@ -102,7 +102,7 @@ h6 {
 }
 .PN img{
   border-radius: 30px;
-  border: 5px solid #34495e;
+  border: 5px solid #c0392b;
 }
 h1.h-xlight,h2.h-xlight,h3.h-xlight ,h4.h-xlight ,h5.h-xlight ,h6.h-xlight  {
 	font-weight: 200;
@@ -203,7 +203,7 @@ blockquote strong {
 }
 
 .site-logo a.brand {
-	color: #111;
+	color: #444;
 	text-transform: uppercase;
 	font-size: 26px;
 	font-family: 'Roboto', sans-serif;
@@ -248,11 +248,12 @@ blockquote strong {
 
 
 .navbar-custom ul.nav li a {
-	font-size: 12px;
+	font-size: 18px;
 	letter-spacing: 1px;
     color: #444;
 	text-transform: uppercase;
 	font-weight: 700;
+
 }
 
 .navbar-custom.top-nav-collapse ul.nav li a {
@@ -300,6 +301,7 @@ blockquote strong {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+
 }
 
 .navbar-custom .nav li a:hover,
@@ -308,12 +310,14 @@ blockquote strong {
     outline: 0;
     background-color: rgba(255,255,255,.2);
     color:  #c0392b;
+
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li.active {
     outline: 0;
     background-color: rgba(255,255,255,.2);
+    
 }
 
 .navbar-toggle {
