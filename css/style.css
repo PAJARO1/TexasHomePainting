@@ -208,6 +208,7 @@ blockquote strong {
 	font-size: 26px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
+  font-style: italic;
 }
 
 
@@ -253,6 +254,7 @@ blockquote strong {
     color: #444;
 	text-transform: uppercase;
 	font-weight: 700;
+  font-style: italic;
 
 }
 
